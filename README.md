@@ -1,1 +1,2 @@
-# MITx 6.00.1x
+# About
+This repository contains some code written for the online course MITx 6.00.1x.
